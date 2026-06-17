@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760" role="img" aria-label="小白 AI 工具箱流程示意">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#0f172a" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="760" rx="44" fill="#eef4fb"/>
+  <text x="78" y="94" fill="#0f172a" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">四条主线，覆盖新手最容易卡住的地方</text>
+  <text x="78" y="134" fill="#64748b" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif">每条流程只做引导和确认，不代替用户完成付款、实名或不可逆操作。</text>
+  <g transform="translate(84 202)" filter="url(#shadow)">
+    <rect width="282" height="352" rx="24" fill="#ffffff"/>
+    <circle cx="56" cy="58" r="24" fill="#dbeafe"/>
+    <text x="48" y="67" fill="#1d4ed8" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="900">1</text>
+    <text x="34" y="118" fill="#0f172a" font-size="25" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">部署服务器</text>
+    <text x="34" y="166" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">购买轻量服务器</text>
+    <text x="34" y="200" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">保存公网 IP</text>
+    <text x="34" y="234" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">按需放行端口</text>
+    <rect x="34" y="282" width="214" height="44" rx="12" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="62" y="310" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">打开服务器引导</text>
+  </g>
+  <g transform="translate(414 202)" filter="url(#shadow)">
+    <rect width="282" height="352" rx="24" fill="#ffffff"/>
+    <circle cx="56" cy="58" r="24" fill="#dcfce7"/>
+    <text x="48" y="67" fill="#15803d" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="900">2</text>
+    <text x="34" y="118" fill="#0f172a" font-size="25" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">域名备案</text>
+    <text x="34" y="166" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">购买域名</text>
+    <text x="34" y="200" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">DNS 解析映射</text>
+    <text x="34" y="234" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">备案资料路径</text>
+    <rect x="34" y="282" width="214" height="44" rx="12" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <text x="72" y="310" fill="#15803d" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">打开域名引导</text>
+  </g>
+  <g transform="translate(744 202)" filter="url(#shadow)">
+    <rect width="282" height="352" rx="24" fill="#ffffff"/>
+    <circle cx="56" cy="58" r="24" fill="#ffedd5"/>
+    <text x="48" y="67" fill="#c2410c" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="900">3</text>
+    <text x="34" y="118" fill="#0f172a" font-size="25" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">模型 API</text>
+    <text x="34" y="166" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">平台开户</text>
+    <text x="34" y="200" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">小额充值测试</text>
+    <text x="34" y="234" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">写入 Codex</text>
+    <rect x="34" y="282" width="214" height="44" rx="12" fill="#fff7ed" stroke="#fed7aa"/>
+    <text x="64" y="310" fill="#c2410c" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">打开模型引导</text>
+  </g>
+  <g transform="translate(1074 202)" filter="url(#shadow)">
+    <rect width="282" height="352" rx="24" fill="#ffffff"/>
+    <circle cx="56" cy="58" r="24" fill="#ede9fe"/>
+    <text x="48" y="67" fill="#7c3aed" font-size="24" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="900">4</text>
+    <text x="34" y="118" fill="#0f172a" font-size="25" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">社区答案</text>
+    <text x="34" y="166" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">标签匹配</text>
+    <text x="34" y="200" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">已有回答推荐</text>
+    <text x="34" y="234" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">点击跳转帖子</text>
+    <rect x="34" y="282" width="214" height="44" rx="12" fill="#f5f3ff" stroke="#ddd6fe"/>
+    <text x="64" y="310" fill="#7c3aed" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">打开社区答案</text>
+  </g>
+</svg>

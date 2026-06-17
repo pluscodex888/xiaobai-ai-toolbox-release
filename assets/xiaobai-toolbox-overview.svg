@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760" role="img" aria-label="小白 AI 工具箱概览">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f1b2d"/>
+      <stop offset="1" stop-color="#183b70"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="760" rx="44" fill="#f3f7fb"/>
+  <rect x="56" y="54" width="1328" height="652" rx="34" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="56" y="54" width="370" height="652" rx="34" fill="url(#bg)"/>
+  <rect x="96" y="104" width="68" height="68" rx="16" fill="#111827"/>
+  <text x="114" y="148" fill="#ffffff" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="900">AI</text>
+  <text x="184" y="128" fill="#ffffff" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">小白 AI 工具箱</text>
+  <text x="184" y="164" fill="#bcd0ea" font-size="16" font-family="Segoe UI, Microsoft YaHei, sans-serif">https://aiopentool.com</text>
+  <g transform="translate(96 238)">
+    <rect width="286" height="74" rx="14" fill="#1d4f91" stroke="#60a5fa"/>
+    <text x="22" y="31" fill="#ffffff" font-size="20" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">后台部署自动化工具</text>
+    <text x="22" y="56" fill="#dbeafe" font-size="15" font-family="Segoe UI, Microsoft YaHei, sans-serif">服务器、域名、备案、部署</text>
+  </g>
+  <g transform="translate(96 330)">
+    <rect width="286" height="74" rx="14" fill="#14243a" stroke="#334155"/>
+    <text x="22" y="31" fill="#ffffff" font-size="20" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">热门辅助工具</text>
+    <text x="22" y="56" fill="#cbd5e1" font-size="15" font-family="Segoe UI, Microsoft YaHei, sans-serif">模型开户、充值、验证码</text>
+  </g>
+  <g transform="translate(96 422)">
+    <rect width="286" height="74" rx="14" fill="#14243a" stroke="#334155"/>
+    <text x="22" y="31" fill="#ffffff" font-size="20" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">多账号切换</text>
+    <text x="22" y="56" fill="#cbd5e1" font-size="15" font-family="Segoe UI, Microsoft YaHei, sans-serif">Codex 账号额度和切换</text>
+  </g>
+  <g transform="translate(488 118)">
+    <text x="0" y="0" fill="#0f172a" font-size="36" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">把复杂流程做成可点击的引导</text>
+    <text x="0" y="42" fill="#64748b" font-size="18" font-family="Segoe UI, Microsoft YaHei, sans-serif">从买服务器到部署上线，从模型 Key 到 Codex 写入，尽量让新手少走弯路。</text>
+  </g>
+  <g transform="translate(488 212)">
+    <rect width="810" height="388" rx="28" fill="#f8fafc" stroke="#dbe5f5"/>
+    <g transform="translate(42 42)">
+      <rect width="318" height="122" rx="18" fill="#ffffff" stroke="#bfdbfe"/>
+      <text x="28" y="42" fill="#1d4ed8" font-size="22" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">自动部署</text>
+      <text x="28" y="78" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">服务器信息、端口放行、</text>
+      <text x="28" y="104" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">AI 部署协议联动。</text>
+    </g>
+    <g transform="translate(420 42)">
+      <rect width="318" height="122" rx="18" fill="#ffffff" stroke="#bbf7d0"/>
+      <text x="28" y="42" fill="#047857" font-size="22" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">域名和备案</text>
+      <text x="28" y="78" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">购买、解析、映射、备案</text>
+      <text x="28" y="104" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">分流程处理。</text>
+    </g>
+    <g transform="translate(42 206)">
+      <rect width="318" height="122" rx="18" fill="#ffffff" stroke="#fed7aa"/>
+      <text x="28" y="42" fill="#c2410c" font-size="22" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">模型开户充值</text>
+      <text x="28" y="78" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">DeepSeek、千问、智谱</text>
+      <text x="28" y="104" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">API Key 获取与回写。</text>
+    </g>
+    <g transform="translate(420 206)">
+      <rect width="318" height="122" rx="18" fill="#ffffff" stroke="#ddd6fe"/>
+      <text x="28" y="42" fill="#6d28d9" font-size="22" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="800">小白社区</text>
+      <text x="28" y="78" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">标签答案、常见问题、</text>
+      <text x="28" y="104" fill="#475569" font-size="17" font-family="Segoe UI, Microsoft YaHei, sans-serif">Codex 上下文推荐。</text>
+    </g>
+  </g>
+</svg>
