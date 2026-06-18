@@ -90,19 +90,11 @@
 
 正式发布包是已经编译好的 Windows 安装包，用户不需要 Go、Node、NSIS 等构建环境。
 
-正式版本号使用 SemVer，GitHub Release tag、安装包文件名、校验文件和 manifest 版本必须一致。
+正式版本号使用 SemVer，GitHub Release tag、安装包版本、校验信息和 manifest 版本必须一致。
 
-推荐资产命名：
+GitHub Release 中面向用户的是预编译 Windows 安装包，配套校验信息和版本元数据会随发布一起提供。用户不需要下载源码，也不需要在本机编译。
 
-```text
-xiaobai-ai-toolbox-setup-v<version>.exe
-xiaobai-ai-toolbox-setup-v<version>.exe.sha256
-xiaobai-ai-toolbox-setup-v<version>.json
-```
-
-自动更新服务会读取本仓库最新 GitHub Release，把可用安装包同步到小白工具箱更新通道。客户端按版本号判断是否需要更新。
-
-GitHub 自动生成的 Source code zip/tar.gz 不是正式更新包。
+自动更新服务会读取本仓库最新正式版本，并同步到小白工具箱更新通道。客户端按版本号判断是否需要更新。
 
 ## 维护方
 
